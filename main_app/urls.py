@@ -24,4 +24,5 @@ import shop_base.urls
 urlpatterns = [
     path("admin/", admin.site.urls),
     path('', include('shop_base.urls', namespace='shop_base')),
+    path('catalog/', include('goods.urls', namespace='catalog')),
 ]

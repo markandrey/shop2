@@ -1,0 +1,282 @@
+[
+    {
+        "model": "goods.products",
+        "pk": 1,
+        "fields": {
+            "name": "Классические шторы",
+            "slug": "klassicheskie-shtory",
+            "description": "Элегантные шторы из плотного хлопка с традиционным дизайном. Подходят для гостиных и спален.",
+            "image": "",
+            "price": "3499.99",
+            "discount": "10.00",
+            "quantity": 123,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 2,
+        "fields": {
+            "name": "Римские шторы",
+            "slug": "rimskie-shtory",
+            "description": "Практичные и стильные шторы с механизмом подъёма. Идеальны для кухонь и офисов.",
+            "image": "",
+            "price": "4299.50",
+            "discount": "0.00",
+            "quantity": 45,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 3,
+        "fields": {
+            "name": "Японские шторы",
+            "slug": "yaponskie-shtory",
+            "description": "Минималистичные панельные шторы с ровными складками. Создают уютную атмосферу.",
+            "image": "",
+            "price": "5999.00",
+            "discount": "5.00",
+            "quantity": 10,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 4,
+        "fields": {
+            "name": "Рулонные шторы",
+            "slug": "rulonnye-shtory",
+            "description": "Удобные шторы с компактным механизмом скручивания. Защищают от солнца.",
+            "image": "",
+            "price": "2899.99",
+            "discount": "15.00",
+            "quantity": 56,
+            "category": 5
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 5,
+        "fields": {
+            "name": "Шторы блэкаут",
+            "slug": "shtory-blekaut",
+            "description": "Полностью блокируют солнечный свет. Отлично подходят для спален.",
+            "image": "",
+            "price": "4599.50",
+            "discount": "0.00",
+            "quantity": 342,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 6,
+        "fields": {
+            "name": "Тюлевые шторы",
+            "slug": "tyulevye-shtory",
+            "description": "Лёгкие и воздушные шторы, пропускающие мягкий свет. Украшают окна.",
+            "image": "",
+            "price": "1999.99",
+            "discount": "0.00",
+            "quantity": 456,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 7,
+        "fields": {
+            "name": "Деревянные жалюзи",
+            "slug": "derevyannye-zhalyuzi",
+            "description": "Стильные жалюзи из натурального дерева. Регулируют уровень освещённости.",
+            "image": "",
+            "price": "6799.00",
+            "discount": "10.00",
+            "quantity": 76,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 8,
+        "fields": {
+            "name": "Алюминиевые жалюзи",
+            "slug": "alyuminievye-zhalyuzi",
+            "description": "Лёгкие и прочные жалюзи для офисов и квартир. Устойчивы к влаге.",
+            "image": "",
+            "price": "3499.50",
+            "discount": "0.00",
+            "quantity": 54,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 9,
+        "fields": {
+            "name": "Вертикальные жалюзи",
+            "slug": "vertikalnye-zhalyuzi",
+            "description": "Жалюзи с вертикальными ламелями. Удобны для панорамных окон.",
+            "image": "",
+            "price": "5199.99",
+            "discount": "0.00",
+            "quantity": 89,
+            "category": 4
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 10,
+        "fields": {
+            "name": "Карниз круглый",
+            "slug": "karniz-kruglyj",
+            "description": "Прочный металлический карниз с кольцами. Подходит для тяжёлых штор.",
+            "image": "",
+            "price": "1499.00",
+            "discount": "0.00",
+            "quantity": 121,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 11,
+        "fields": {
+            "name": "Карниз профильный",
+            "slug": "karniz-profilnyj",
+            "description": "Современный карниз с незаметным креплением. Идеален для рулонных штор.",
+            "image": "",
+            "price": "2299.50",
+            "discount": "0.00",
+            "quantity": 222,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 12,
+        "fields": {
+            "name": "Карниз струнный",
+            "slug": "karniz-strunnyj",
+            "description": "Лёгкий и почти невидимый карниз. Используется для тюлевых штор.",
+            "image": "",
+            "price": "899.99",
+            "discount": "20.00",
+            "quantity": 343,
+            "category": 3
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 13,
+        "fields": {
+            "name": "Подушки декоративные",
+            "slug": "podushki-dekorativnye",
+            "description": "Мягкие подушки с яркими принтами. Украшают диваны и кровати.",
+            "image": "",
+            "price": "1299.00",
+            "discount": "0.00",
+            "quantity": 567,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 14,
+        "fields": {
+            "name": "Покрывало стёганое",
+            "slug": "pokryvalo-styoganoe",
+            "description": "Тёплое и уютное покрывало для спальни. Доступно в разных размерах.",
+            "image": "",
+            "price": "3499.99",
+            "discount": "0.00",
+            "quantity": 23,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 15,
+        "fields": {
+            "name": "Плед вязаный",
+            "slug": "pled-vyazanyj",
+            "description": "Ручная работа из натуральной шерсти. Согревает зимними вечерами.",
+            "image": "",
+            "price": "2799.50",
+            "discount": "5.00",
+            "quantity": 43,
+            "category": 2
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 16,
+        "fields": {
+            "name": "Скатерть льняная",
+            "slug": "skatert-lnyanaya",
+            "description": "Экологичная скатерть с натуральной фактурой. Подходит для праздничного стола.",
+            "image": "",
+            "price": "1899.00",
+            "discount": "0.00",
+            "quantity": 56,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 17,
+        "fields": {
+            "name": "Гобелен настенный",
+            "slug": "gobelen-nastennyj",
+            "description": "Декоративное панно с узорами. Создаёт акцент в интерьере.",
+            "image": "",
+            "price": "4599.99",
+            "discount": "0.00",
+            "quantity": 5,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 18,
+        "fields": {
+            "name": "Полотенца кухонные",
+            "slug": "polotenca-kuhonnye",
+            "description": "Хлопковые полотенца с высокой впитываемостью. Практичны и долговечны.",
+            "image": "",
+            "price": "12.00",
+            "discount": "0.00",
+            "quantity": 567,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 19,
+        "fields": {
+            "name": "Чехлы для мебели",
+            "slug": "chehly-dlya-mebeli",
+            "description": "Защищают диваны и кресла от загрязнений. Легко снимаются и стираются.",
+            "image": "",
+            "price": "4999.00",
+            "discount": "25.00",
+            "quantity": 1221,
+            "category": 6
+        }
+    },
+    {
+        "model": "goods.products",
+        "pk": 20,
+        "fields": {
+            "name": "Балдахин для кровати",
+            "slug": "baldahin-dlya-krovati",
+            "description": "Романтичный балдахин из лёгкой ткани. Создаёт уют в спальне.",
+            "image": "",
+            "price": "3599.99",
+            "discount": "0.00",
+            "quantity": 654,
+            "category": 6
+        }
+    }
+]

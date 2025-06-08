@@ -19,6 +19,7 @@ from django.urls import include, path
 
 from debug_toolbar.toolbar import debug_toolbar_urls
 from main_app import settings
+from django.conf.urls.static import static
 
 
 urlpatterns = [
@@ -29,3 +30,4 @@ urlpatterns = [
 
 if settings.DEBUG:
     urlpatterns += debug_toolbar_urls()
+    urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
